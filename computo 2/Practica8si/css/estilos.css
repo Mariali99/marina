@@ -1,0 +1,29 @@
+/* -- HEADER -- */
+.navbar {
+	margin-bottom: 0;
+}
+
+.jumbotron {
+	background:#428BCA;
+	color:#fff;
+	padding: 10px 0;
+}
+
+.post{
+	margin-left: 35%;
+	width: 50%;
+}
+
+/* -- POST -- */
+.main {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+@media screen and (max-width: 768px) {
+	.post {
+	margin-left: 10%;
+	}
+}
+
+
